@@ -1,1 +1,14 @@
 out
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
